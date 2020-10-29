@@ -1,0 +1,18 @@
+.author_pic{
+    transform: rotate(180deg);
+}
+body{
+    background-color: #1f6f8b;
+}
+hr{
+  border-style:none;  
+  border-top-style: dotted;
+  border-width: 10px;
+  border-color: grey;
+  width: 30%;
+  background-color: none;
+}
+h1, h3 {
+    color: #66BFBF;
+    
+}
