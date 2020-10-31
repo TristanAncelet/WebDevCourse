@@ -1,9 +1,18 @@
 .author_pic{
     transform: rotate(180deg);
+    width:200px;
+    height:200px; 
 }
 body{
     background-color: #1f6f8b;
 }
+.joey_pic {
+    float: left;
+    width: 50%;
+    margin: 20px;
+}
+.info {
+)
 hr{
   border-style:none;  
   border-top-style: dotted;
